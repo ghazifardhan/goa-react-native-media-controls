@@ -3553,9 +3553,8 @@ react-devtools-core@^2.5.0:
     shell-quote "^1.6.1"
     ws "^2.0.3"
 
-react-native-media-controls@*:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/react-native-media-controls/-/react-native-media-controls-1.1.0.tgz#5732611294960878f640565aad5f2ce2e797b39d"
+"react-native-media-controls@file:..":
+  version "1.1.1"
   dependencies:
     react-native-slider "^0.11.0"
 
@@ -4363,8 +4362,8 @@ typedarray@^0.0.6:
   resolved "https://registry.yarnpkg.com/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
 
 ua-parser-js@^0.7.9:
-  version "0.7.17"
-  resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.17.tgz#e9ec5f9498b9ec910e7ae3ac626a805c4d09ecac"
+  version "0.7.28"
+  resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.28.tgz#8ba04e653f35ce210239c64661685bf9121dec31"
 
 uglify-es@^3.1.8:
   version "3.3.9"
